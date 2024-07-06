@@ -1,0 +1,22 @@
+.section-home{
+    background-image: url('../image/bg1.png');
+
+    .pera{
+        font-family: var(--font-pera);
+        font-size: var(--font-size-medium);
+        margin-top: 100px;
+    }
+    .heading1{
+        font-family: var(--font-heading);
+        font-size: 50px;
+    }
+    .heading2{
+        font-family: var(--font-pera);
+        font-size: 20px;
+        letter-spacing: 10px;
+        text-align: right;
+    }
+    .img-box{
+       @include imgBox;
+    }
+}

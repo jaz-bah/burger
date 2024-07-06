@@ -1,0 +1,138 @@
+@media only screen and (min-width: 280px){
+
+
+}
+@media only screen and (min-width: 320px){
+    .section-navbar{
+        .logo{
+            font-size: 40px;
+        }
+        .menu-toggle-btn{
+            margin-top: 0px;
+            font-size: 40px;
+        }
+    }
+
+}
+@media only screen and (min-width: 360px){
+
+
+}
+@media only screen and (min-width: 375px){
+
+
+}
+@media only screen and (min-width: 411px){
+    .section-home{   
+        .pera{
+            margin-top: 100px;
+        }
+        .heading1{
+            font-size: 70px;
+        }
+        .heading2{
+            font-size: 30px;
+        }
+    }
+
+}
+
+@media only screen and (min-width: 414px){
+
+
+}
+@media only screen and (min-width: 540px){
+
+
+}
+@media only screen and (min-width: 768px){
+    .section-popular{
+        .jar2{
+            margin-top: 0px;
+        }
+    }
+    .section-slider{
+        .slider-jar{
+            width: 80%;
+            margin-left: 10%;
+
+            .heading1{
+                text-align: left;
+                margin-left: 20px;
+                font-size: 20px;
+            }
+            .heading2{
+                text-align: left;
+                margin-left: 20px;
+                font-size: 25px;
+            }
+            .pera1{
+                font-size: 15px;
+            }
+            .carousel-indicators{
+                margin-left: 70%;
+            }
+            .pc-content{
+                display: block;
+            }
+        }
+             
+    }
+
+}
+@media only screen and (min-width: 820px){
+    .section-home{   
+        .heading1{
+            font-size: 90px;
+        }
+    }
+    .section-navbar{
+        .nav-menu{
+            box-shadow: none;
+        }
+    }
+
+}
+@media only screen and (min-width: 1024px){
+    .section-home{   
+        .heading1{
+            font-size: 120px;
+        }
+    }
+
+    .section-footer{
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        .heading1{
+            text-align: left;
+        }
+        .pera1{
+            text-align: left;
+        }
+        .midea-icon{
+            margin-top: 160px;
+
+            ul{
+                justify-content: right;
+            }
+        }
+    }
+
+}
+@media only screen and (min-width: 1025px){
+    .section-home{   
+        .heading1{
+            font-size: 160px;
+        }
+        .heading2{
+            font-size: 50px;
+        }
+    }
+
+}
+@media only screen and (min-width: 1280px){
+    
+
+}

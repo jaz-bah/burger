@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&family=Teko:wght@300&family=Water+Brush&display=swap');
+
+
+:root{
+
+    --color-choco: #3d2514;
+    --color-orange: #ffc74d;
+    --color-light: ;
+
+    --bg-color-dark: ;
+    --bg-color-light: ;
+
+    --font-link:  ;
+    --font-heading: 'Palette Mosaic', cursive;
+    --font-fancy:  'Water Brush', cursive;
+    --font-pera:  'Teko', sans-serif;
+
+    --font-bold: ;
+    --font-semibold: ;
+    --font-bolder: ;
+
+    --font-size-normal: 20px;
+    --font-size-medium: 30px;
+    --font-size-learge: 50px;
+
+    @media screen and (max-width: 768px){
+        --font-size-normal: 15px;
+        --font-size-medium: 25px;
+        --font-size-learge: 40px;
+    }
+    @media screen and (max-width: 320px){
+        --font-size-normal: 10px;
+        --font-size-medium: 20px;
+        --font-size-learge: 30px;
+    }
+}
+@mixin imgBox {
+    width: 100%;
+    overflow: hidden;
+
+    img{
+        width: 100%;
+    }
+}
+.opacity0{
+    opacity: 0;
+}
+.box-shadow{
+   box-shadow: 0px 3px 20px 2px; 
+}

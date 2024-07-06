@@ -1,0 +1,37 @@
+.section-popular{
+    padding: 20px;
+
+    .pera1{
+        font-family: var(--font-pera);
+        font-size: var(--font-size-normal);
+        color: #fff;
+    }
+    .pera2{
+        font-family: var(--font-pera);
+        font-size: var(--font-size-medium);
+        color: #fff;
+    }
+    
+    .jar1{
+        padding: 20px;
+        border-radius: 10px;
+        background-image: url('../image/img2.jpg');
+        background-size: cover;
+        height: 100%;
+    }
+    .jar2{
+        padding: 20px;
+        border-radius: 10px;
+        background-image: url('../image/img3.png');
+        background-size: cover;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+    .jar3{
+        padding: 20px;
+        border-radius: 10px;
+        background-image: url('../image/img4.png');
+        background-size: cover;
+
+    }
+}
